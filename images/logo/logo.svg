@@ -1,0 +1,34 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 555.00001 147.42111">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+        font-size: 60px;
+        fill: #fd0;
+        font-family: VarelaRound-Regular, Varela Round;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.008em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.015em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01099em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.02598em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="6.42111" width="555.00001" height="141.00001"/>
+  <text class="cls-2" transform="translate(8.4026 50.93933)"><tspan class="cls-3">S</tspan><tspan x="36.47998" y="0">ha</tspan><tspan class="cls-4" x="106.73926" y="0">r</tspan><tspan class="cls-5" x="128.81934" y="0">e</tspan><tspan class="cls-6" x="162.11963" y="0">P</tspan><tspan x="200.88037" y="0">al</tspan></text>
+</svg>
