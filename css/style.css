@@ -356,7 +356,8 @@ img, svg {
 html {
   font-family: "Varela Round", sans-serif;
   font-size: 15px;
-  color: #666;
+  color: #011319;
+  /* color: #666; */
   line-height: 1.7;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
@@ -376,7 +377,7 @@ h1, h2, h3, h4 {
 h5, h6 {
   margin: 1.414em 0 0.5em;
   line-height: 1.4;
-  color: #666;
+  color: #011319;
   font-weight: 400; }
 
 h1 {
@@ -504,7 +505,7 @@ label {
   margin-bottom: 2pt;
   display: block;
   text-align: left;
-  color: #666;
+  color: #011319;
   font-size: 0.9em;
   padding-left: 10pt; }
 
@@ -574,25 +575,25 @@ select {
   /* WebKit, Blink, Edge */
   font-size: .9em;
   opacity: .65;
-  color: #666; }
+  color: #011319; }
 
 :-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
   font-size: .9em;
   opacity: .65;
-  color: #666; }
+  color: #011319; }
 
 ::-moz-placeholder {
   /* Mozilla Firefox 19+ */
   font-size: .9em;
   opacity: .65;
-  color: #666; }
+  color: #011319; }
 
 :-ms-input-placeholder {
   /* Internet Explorer 10-11 + lt if placeholders.js */
   font-size: .9em;
   opacity: .65;
-  color: #666; }
+  color: #011319; }
 
 /* Remove default Radio Buttons */
 [type="radio"]:not(:checked),
@@ -630,12 +631,12 @@ select {
 [type="radio"]:not(:checked) + label:before {
   transition: .28s ease;
   border-radius: 50%;
-  border: 1px solid #666; }
+  border: 1px solid #011319; }
 
 [type="radio"]:not(:checked) + label:after {
   transition: .28s ease;
   border-radius: 50%;
-  border: 1px solid #666;
+  border: 1px solid #011319;
   z-index: -1;
   transform: scale(0); }
 
@@ -667,7 +668,7 @@ select {
 
 [type="radio"]:disabled:checked + label:after {
   background-color: #eee;
-  border-color: #666; }
+  border-color: #011319; }
 
 [type="checkbox"]:not(:checked),
 [type="checkbox"]:checked {
@@ -697,7 +698,7 @@ select {
     width: 15px;
     height: 15px;
     z-index: 0;
-    border: 1px solid #666;
+    border: 1px solid #011319;
     border-radius: 1px;
     margin-top: 4px;
     transition: .2s; }
@@ -978,7 +979,7 @@ p.speech-bubble {
     font-size: 13px;
     margin-left: 8px;
     width: 160px;
-    color: #666;
+    color: #011319;
 }
 
 .speech-bubble:after {
@@ -1019,7 +1020,7 @@ p.horz-move {
 
 div.features  {
   margin-top: 24px;
-  color: #666;
+  color: #011319;
   font-size: 0.8em;
   display: flex;
   align-items: center;
@@ -1064,7 +1065,7 @@ span.features {
   line-height: 1.7;
   text-align: left;
   font-size: 1.1em; 
-  color: #666;
+  color: #011319;
 }
 
 .hero .button {
@@ -1088,7 +1089,7 @@ span.features {
 .hero__sub__down {
   width: 1rem;
   height: 1rem;
-  color: #666;
+  color: #011319;
   transition: 0.7s;
   cursor: pointer; }
   @media (min-width: 992px) {
@@ -1215,7 +1216,7 @@ span.features {
   text-align: center; }
 
 .cta__sub {
-  color: #666;
+  color: #011319;
 }
 
 .cta--reverse {
