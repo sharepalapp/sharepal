@@ -1177,7 +1177,7 @@ span.features {
       width: 50%;
       flex-shrink: 0;
       order: unset; } }
-
+      
 .expanded__content {
   order: 2; }
   @media (min-width: 992px) {
